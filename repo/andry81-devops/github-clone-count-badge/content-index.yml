@@ -1,0 +1,59 @@
+# This file is automatically updated by the GitHub action script: https://github.com/andry81-devops/gh-action--accum-content
+#
+
+content-index:
+
+  timestamp: '2022-05-09T22:32:12Z'
+
+  entries:
+
+    - dirs:
+
+        - dir: repo/andry81-devops/github-clone-count-badge/badges/traffic/views
+
+          files:
+
+            - file: all.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
+              md5-hash: cbd6a8ff0608829f46af6088d543d89f
+              timestamp: '2022-05-09T22:32:07Z'
+
+            - file: all-14d.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/views/latest.json?raw=True
+              md5-hash: 90217b5e833d3a3fe26d793470f6314d
+              timestamp: '2022-05-09T22:32:08Z'
+
+            - file: unq.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
+              md5-hash: a6d30ceec95d447247f32bfe4cbf1874
+              timestamp: '2022-05-09T22:32:08Z'
+
+            - file: unq-14d.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/views/latest.json?raw=True
+              md5-hash: bd7fdf3491e00963704f69878a722609
+              timestamp: '2022-05-09T22:32:09Z'
+
+        - dir: repo/andry81-devops/github-clone-count-badge/badges/traffic/clones
+
+          files:
+
+            - file: all.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
+              md5-hash: 16e6dadf7e4c8301b5946a2f7d22085a
+              timestamp: '2022-05-09T22:32:10Z'
+
+            - file: all-14d.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/clones/latest.json?raw=True
+              md5-hash: c959befa6906881ff4a112be567fc54c
+              timestamp: '2022-05-09T22:32:10Z'
+
+            - file: unq.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
+              md5-hash: 4eb2fc07f4decbe74a4102fa216b0832
+              timestamp: '2022-05-09T22:32:11Z'
+
+            - file: unq-14d.svg
+              queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/github-clone-count-badge--gh-stats/raw/master/traffic/clones/latest.json?raw=True
+              md5-hash: f2b9b085b2b123a17d878c4da1e35d88
+              timestamp: '2022-05-09T22:32:12Z'
+

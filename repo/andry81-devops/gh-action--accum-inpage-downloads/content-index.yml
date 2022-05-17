@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-05-17T09:12:05Z'
+  timestamp: '2022-05-17T18:14:48Z'
 
   entries:
 
@@ -16,22 +16,22 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 1c3d54bbd7171d41838a83c57ae046be
-              timestamp: '2022-05-17T09:11:59Z'
+              timestamp: '2022-05-17T18:14:38Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 3f3bc8169aafc3b7787d56fd71120599
-              timestamp: '2022-05-17T09:12:00Z'
+              timestamp: '2022-05-17T18:14:38Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: a7f98b21c66b11e093bb24da111b26c0
-              timestamp: '2022-05-17T09:12:01Z'
+              timestamp: '2022-05-17T18:14:39Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2022-05-17T09:12:01Z'
+              timestamp: '2022-05-17T18:14:40Z'
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 3144600acce5d9538f57803e973dba01
-              timestamp: '2022-05-17T09:12:02Z'
+              md5-hash: f95dbdaf27d40a83bfe823520b349ec8
+              timestamp: '2022-05-17T18:14:41Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 29b0dcfc3cbac6f2f9e429a2d7cc483f
-              timestamp: '2022-05-17T09:12:03Z'
+              md5-hash: ae57194f3c361a178c4d14971c49bd84
+              timestamp: '2022-05-17T18:14:41Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: be11f1338e74033d729dea7ad3192861
-              timestamp: '2022-05-17T09:12:04Z'
+              timestamp: '2022-05-17T18:14:42Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: a8472707ed31fb8ec0bca219a01ea532
-              timestamp: '2022-05-17T09:12:05Z'
+              timestamp: '2022-05-17T18:14:43Z'
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/metrics
 
@@ -64,17 +64,17 @@ content-index:
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-action--accum-inpage-downloads/latest?sort=semver&label=Github%20commits%20since%20latest
               md5-hash: ac11a4e28584f4339ec5b7bbf7bca74e
-              timestamp: '2022-05-17T03:50:33Z'
+              timestamp: '2022-05-17T18:14:44Z'
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-action--accum-inpage-downloads?include_prereleases&label=latest
               md5-hash: 6797ffcc44f415cb83421da797d5da0f
-              timestamp: '2022-05-17T03:50:34Z'
+              timestamp: '2022-05-17T18:14:45Z'
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-action--accum-inpage-downloads/total?label=Github%20dl|all&logo=github
               md5-hash: 1d0b1a36f9cf418948de4c7749689d02
-              timestamp: '2022-05-17T03:50:35Z'
+              timestamp: '2022-05-17T18:14:45Z'
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/metrics
 
@@ -83,15 +83,15 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-action--accum-inpage-downloads?logo=github
               md5-hash: 303804bbd559c59175e52e5f52495c07
-              timestamp: '2022-05-17T03:50:36Z'
+              timestamp: '2022-05-17T18:14:46Z'
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-action--accum-inpage-downloads?logo=github
               md5-hash: 526e73c341a37e95a0c9451ad97b96bb
-              timestamp: '2022-05-17T03:50:36Z'
+              timestamp: '2022-05-17T18:14:47Z'
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81-devops/gh-action--accum-inpage-downloads?category=code
               md5-hash: 8110af95244077f0ef0bf436815d208a
-              timestamp: '2022-05-17T03:50:39Z'
+              timestamp: '2022-05-17T18:14:48Z'
 

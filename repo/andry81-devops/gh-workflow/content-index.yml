@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-05-20T09:23:29Z'
+  timestamp: '2022-05-20T18:22:05Z'
 
   entries:
 
@@ -15,23 +15,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 8bbe04158143c6573b555f175b90b291
-              timestamp: '2022-05-20T09:23:22Z'
+              md5-hash: 24a81b8e98d0120385573874b285d575
+              timestamp: '2022-05-20T18:21:53Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: 629b6820fabbd738046a40acf2968c66
-              timestamp: '2022-05-20T09:23:23Z'
+              md5-hash: 53b4d932eeae3276e47616a1b49a191d
+              timestamp: '2022-05-20T18:21:54Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 5595668497c0cbd58d971b67975b06aa
-              timestamp: '2022-05-20T09:23:24Z'
+              md5-hash: bca9c38081e2e110b26ac22add078133
+              timestamp: '2022-05-20T18:21:55Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: ef45b6b8fc2a6132a5110ac001a7c4b2
-              timestamp: '2022-05-20T09:23:25Z'
+              md5-hash: bd7fdf3491e00963704f69878a722609
+              timestamp: '2022-05-20T18:21:56Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: c81416174a943cbba3b51a3097371277
-              timestamp: '2022-05-20T09:23:26Z'
+              md5-hash: ec91425407975ecd9237a07adc801fb5
+              timestamp: '2022-05-20T18:21:57Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 33b458a9d099f997043b6b306ea32e22
-              timestamp: '2022-05-20T09:23:26Z'
+              md5-hash: 3bf345e1be2e8f9c51b088480817a54d
+              timestamp: '2022-05-20T18:21:57Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: b3622af774de8a591b07523801b60982
-              timestamp: '2022-05-20T09:23:27Z'
+              md5-hash: a2e3de45fbf6868af8b638af5d2addc1
+              timestamp: '2022-05-20T18:21:58Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 9c4aa3b6229b08b555bfe1ac65513432
-              timestamp: '2022-05-20T09:23:28Z'
+              md5-hash: b3c5628379e8bf0e8f57da28a2835f6c
+              timestamp: '2022-05-20T18:21:59Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/metrics
 
@@ -64,17 +64,17 @@ content-index:
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-workflow/latest?sort=semver&label=Github%20commits%20since%20latest
               md5-hash: 829dd3e430a82117b734a3131e6f3bf4
-              timestamp: '2022-05-20T03:46:41Z'
+              timestamp: '2022-05-20T18:22:00Z'
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-workflow?include_prereleases&label=latest
               md5-hash: 59397f3270c0668bf4d2f3bd8d13f830
-              timestamp: '2022-05-20T03:46:42Z'
+              timestamp: '2022-05-20T18:22:01Z'
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-workflow/total?label=Github%20dl|all&logo=github
               md5-hash: 1d0b1a36f9cf418948de4c7749689d02
-              timestamp: '2022-05-20T03:46:43Z'
+              timestamp: '2022-05-20T18:22:02Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/metrics
 
@@ -83,15 +83,15 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-workflow?logo=github
               md5-hash: 456b669ef264a8402c05d153e88d6859
-              timestamp: '2022-05-20T03:46:44Z'
+              timestamp: '2022-05-20T18:22:03Z'
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-workflow?logo=github
               md5-hash: d0008a95ddae8d90b74c26378725f5f0
-              timestamp: '2022-05-20T03:46:45Z'
+              timestamp: '2022-05-20T18:22:03Z'
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81-devops/gh-workflow?category=code
               md5-hash: a75a8d559c17e9223ce5a35bdf20d6a1
-              timestamp: '2022-05-20T09:23:29Z'
+              timestamp: '2022-05-20T18:22:05Z'
 

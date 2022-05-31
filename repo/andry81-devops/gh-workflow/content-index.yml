@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-05-31T12:35:39Z'
+  timestamp: '2022-05-31T18:22:15Z'
 
   entries:
 
@@ -15,23 +15,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 5f4d8a7f7943c78b81786355dd70c2ff
-              timestamp: '2022-05-31T12:35:28Z'
+              md5-hash: 9cd217461c741a6c7b7cab367671434b
+              timestamp: '2022-05-31T18:22:09Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: d71b7919afa7259185318218016e6f01
-              timestamp: '2022-05-31T12:35:29Z'
+              md5-hash: 05864e2cb1269e02e705c68085f36157
+              timestamp: '2022-05-31T18:22:10Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: a514bf8dbee8ed9d5375128bd862c9c4
-              timestamp: '2022-05-31T12:35:30Z'
+              md5-hash: d0c666507f024718a30fcea090f3f6ed
+              timestamp: '2022-05-31T18:22:11Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: ef45b6b8fc2a6132a5110ac001a7c4b2
-              timestamp: '2022-05-31T12:35:30Z'
+              md5-hash: bd7fdf3491e00963704f69878a722609
+              timestamp: '2022-05-31T18:22:12Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: da19936e734f046949d0c6a4eb72c3c7
-              timestamp: '2022-05-31T12:35:31Z'
+              md5-hash: c865bcf09f5f9db2cd4a00d5e627502b
+              timestamp: '2022-05-31T18:22:12Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: f789028bde68150ddc50fc325618e5ea
-              timestamp: '2022-05-31T12:35:32Z'
+              md5-hash: 3d37b0b417786ab77ae85a1b646a9672
+              timestamp: '2022-05-31T18:22:13Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 24fe1781cf4498a63f1af3654f0b3614
-              timestamp: '2022-05-31T12:35:33Z'
+              md5-hash: 97f4dd5c45a51742518dc0b0be4c2978
+              timestamp: '2022-05-31T18:22:14Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 9a3085e46f80129dec55d74e904cb1bb
-              timestamp: '2022-05-31T12:35:33Z'
+              md5-hash: b3c5628379e8bf0e8f57da28a2835f6c
+              timestamp: '2022-05-31T18:22:15Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/metrics
 

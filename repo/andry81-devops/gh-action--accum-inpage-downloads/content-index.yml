@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-07-07T18:15:11Z'
+  timestamp: '2022-07-08T09:12:39Z'
 
   entries:
 
@@ -16,22 +16,22 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: c8ea3273f9498eb7b00808db548b1dca
-              timestamp: '2022-07-07T18:14:55Z'
+              timestamp: '2022-07-08T09:12:24Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: bd7fdf3491e00963704f69878a722609
-              timestamp: '2022-07-07T18:14:56Z'
+              timestamp: '2022-07-08T09:12:25Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: b0628a3b2b394004b6c533db80e2f919
-              timestamp: '2022-07-07T18:14:56Z'
+              timestamp: '2022-07-08T09:12:26Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2022-07-07T18:14:57Z'
+              timestamp: '2022-07-08T09:12:26Z'
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/traffic/clones
 
@@ -40,22 +40,22 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: 98f6e4c217c82cd35a06d86f5800eacd
-              timestamp: '2022-07-07T18:14:58Z'
+              timestamp: '2022-07-08T09:12:27Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 3f3bc8169aafc3b7787d56fd71120599
-              timestamp: '2022-07-07T18:14:59Z'
+              timestamp: '2022-07-08T09:12:28Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 02b63de7e37e55755d4bb94045d720ce
-              timestamp: '2022-07-07T18:15:00Z'
+              md5-hash: df0b5a467b90aba746f83b81348022ae
+              timestamp: '2022-07-08T09:12:28Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: '2022-07-07T18:15:00Z'
+              timestamp: '2022-07-08T09:12:29Z'
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/metrics
 
@@ -64,17 +64,17 @@ content-index:
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-action--accum-inpage-downloads/latest?sort=semver&label=Github%20commits%20since%20latest
               md5-hash: f2ef18db2e5d57ad348918065e693e6d
-              timestamp: '2022-07-07T18:15:02Z'
+              timestamp: '2022-07-08T09:12:30Z'
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-action--accum-inpage-downloads?include_prereleases&label=latest
               md5-hash: 6797ffcc44f415cb83421da797d5da0f
-              timestamp: '2022-07-07T18:15:03Z'
+              timestamp: '2022-07-08T09:12:31Z'
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-action--accum-inpage-downloads/total?label=Github%20dl|all&logo=github
               md5-hash: 1d0b1a36f9cf418948de4c7749689d02
-              timestamp: '2022-07-07T18:15:03Z'
+              timestamp: '2022-07-08T09:12:32Z'
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/metrics
 
@@ -83,15 +83,15 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-action--accum-inpage-downloads?logo=github
               md5-hash: 1f2c5d1df2fe410603f698e79ffdcc74
-              timestamp: '2022-07-07T18:15:04Z'
+              timestamp: '2022-07-08T09:12:32Z'
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-action--accum-inpage-downloads?logo=github
               md5-hash: 526e73c341a37e95a0c9451ad97b96bb
-              timestamp: '2022-07-07T18:15:05Z'
+              timestamp: '2022-07-08T09:12:33Z'
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81-devops/gh-action--accum-inpage-downloads?category=code
               md5-hash: 0337c77698b11a61f9c3eeaed4094cf3
-              timestamp: '2022-07-07T18:15:11Z'
+              timestamp: '2022-07-08T09:12:39Z'
 

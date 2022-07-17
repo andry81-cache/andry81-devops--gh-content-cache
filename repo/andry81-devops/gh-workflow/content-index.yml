@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-07-17T03:56:29Z'
+  timestamp: '2022-07-17T09:16:20Z'
 
   entries:
 
@@ -16,22 +16,22 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: d8ca83b85c0038480ac66bc4c24be0cd
-              timestamp: '2022-07-17T03:56:19Z'
+              timestamp: '2022-07-17T09:16:13Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: bd7fdf3491e00963704f69878a722609
-              timestamp: '2022-07-17T03:56:20Z'
+              timestamp: '2022-07-17T09:16:14Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 223af01c30da7d7f36a187b7f8a0f8c1
-              timestamp: '2022-07-17T03:56:20Z'
+              timestamp: '2022-07-17T09:16:14Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: c959befa6906881ff4a112be567fc54c
-              timestamp: '2022-07-17T03:56:21Z'
+              timestamp: '2022-07-17T09:16:15Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 962212d6ec30454b45ca017ca06f099a
-              timestamp: '2022-07-17T03:56:22Z'
+              md5-hash: 907fd4291fad745d261df3063d8d7774
+              timestamp: '2022-07-17T09:16:16Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 1168f737a565f6299b312ab297a6f0d5
-              timestamp: '2022-07-17T03:56:23Z'
+              md5-hash: cb93cac2dcbf5db96c310633dfe50101
+              timestamp: '2022-07-17T09:16:17Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: c6bbcd15c032f5d1768bdabc670211f2
-              timestamp: '2022-07-17T03:56:24Z'
+              timestamp: '2022-07-17T09:16:18Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
-              timestamp: '2022-07-17T03:56:24Z'
+              timestamp: '2022-07-17T09:16:20Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/metrics
 

@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-08-16T15:15:17Z'
+  timestamp: '2022-08-16T21:12:42Z'
 
   entries:
 
@@ -15,23 +15,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: d316a31f4c8e52aea4cbdf13089be69a
-              timestamp: '2022-08-16T15:15:08Z'
+              md5-hash: 06ecf0741a783e17571375a618bd63bf
+              timestamp: '2022-08-16T21:12:31Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
-              timestamp: '2022-08-16T15:15:08Z'
+              md5-hash: 30030f363c656c61884339a36c07129a
+              timestamp: '2022-08-16T21:12:32Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 2912afc07f0e42584fea4668e0073798
-              timestamp: '2022-08-16T15:15:09Z'
+              md5-hash: b06c2c901eaa9a1646ad193ac34782d1
+              timestamp: '2022-08-16T21:12:33Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2022-08-16T15:15:10Z'
+              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
+              timestamp: '2022-08-16T21:12:34Z'
 
         - dir: repo/andry81-devops/gh-action--git-checkout/badges/traffic/clones
 
@@ -40,22 +40,22 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: 103540474af7a777cf1a135ff0cfb031
-              timestamp: '2022-08-16T15:15:11Z'
+              timestamp: '2022-08-16T21:12:35Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 5f60951fe132c3074d9c33148d22477a
-              timestamp: '2022-08-16T15:15:12Z'
+              timestamp: '2022-08-16T21:12:36Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: d314b0ffbcee7c66ddb500b6d10ed31b
-              timestamp: '2022-08-16T15:15:12Z'
+              timestamp: '2022-08-16T21:12:37Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 9178990da41460fca59c9a101a2fdc05
-              timestamp: '2022-08-16T15:15:13Z'
+              timestamp: '2022-08-16T21:12:38Z'
 
         - dir: repo/andry81-devops/gh-action--git-checkout/badges/metrics
 
@@ -93,5 +93,5 @@ content-index:
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81-devops/gh-action--git-checkout?category=code
               md5-hash: 20824a6661ea996da8dc2cd249d6f3d2
-              timestamp: '2022-08-15T09:14:19Z'
+              timestamp: '2022-08-16T21:12:42Z'
 

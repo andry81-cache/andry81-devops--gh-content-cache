@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-08-19T00:50:45Z'
+  timestamp: '2022-08-19T04:03:05Z'
 
   entries:
 
@@ -63,18 +63,18 @@ content-index:
 
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-workflow/latest?sort=semver&label=Github%20commits%20since%20latest
-              md5-hash: 95b8a18b11d23066ac057908a245fb7c
-              timestamp: '2022-08-18T18:10:20Z'
+              md5-hash: ac11a4e28584f4339ec5b7bbf7bca74e
+              timestamp: '2022-08-19T04:03:02Z'
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-workflow?include_prereleases&label=latest
-              md5-hash: f4d6a12f8533ddd09e91f6a4e76dce24
-              timestamp: '2022-08-18T18:10:21Z'
+              md5-hash: 0f83fd2c2ec63ca6ce6c81df79e47d38
+              timestamp: '2022-08-19T04:03:03Z'
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-workflow/total?label=Github%20dl|all&logo=github
               md5-hash: 1d0b1a36f9cf418948de4c7749689d02
-              timestamp: '2022-08-18T18:10:22Z'
+              timestamp: '2022-08-19T04:03:03Z'
 
         - dir: repo/andry81-devops/gh-workflow/badges/metrics
 
@@ -83,12 +83,12 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-workflow?logo=github
               md5-hash: a375db7fc591507dd25f7cc401d56eb5
-              timestamp: '2022-08-18T18:10:23Z'
+              timestamp: '2022-08-19T04:03:04Z'
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-workflow?logo=github
               md5-hash: 560c55759b1a6a06ff481d9b3eaf62eb
-              timestamp: '2022-08-18T18:10:23Z'
+              timestamp: '2022-08-19T04:03:05Z'
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81-devops/gh-workflow?category=code

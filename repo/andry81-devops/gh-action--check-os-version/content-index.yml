@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-09-01T09:17:42Z'
+  timestamp: '2022-09-01T12:36:10Z'
 
   entries:
 
@@ -71,21 +71,21 @@ content-index:
 
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-action--check-os-version/latest?sort=semver&label=Github%20commits%20since%20latest
-              md5-hash: 779d0e8a08ea46407387929becb2f0f6
-              timestamp: '2022-09-01T04:25:27Z'
-              size: 1251
+              md5-hash: ac11a4e28584f4339ec5b7bbf7bca74e
+              timestamp: '2022-09-01T12:36:07Z'
+              size: 1209
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-action--check-os-version?include_prereleases&label=latest
-              md5-hash: 3d503df7682a5ec4aea6429268e29883
-              timestamp: '2022-09-01T04:25:28Z'
-              size: 1161
+              md5-hash: df9a2293e77539ef27eb7ab3a7a4916f
+              timestamp: '2022-09-01T12:36:08Z'
+              size: 1138
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-action--check-os-version/total?label=Github%20dl|all&logo=github
-              md5-hash: 3d7b387117f1e252911085e3c6751a4f
-              timestamp: '2022-09-01T04:25:29Z'
-              size: 2394
+              md5-hash: 1d0b1a36f9cf418948de4c7749689d02
+              timestamp: '2022-09-01T12:36:09Z'
+              size: 2352
 
         - dir: repo/andry81-devops/gh-action--check-os-version/badges/metrics
 
@@ -94,13 +94,13 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-action--check-os-version?logo=github
               md5-hash: 1e8e8efa8686704b3ce849775982c244
-              timestamp: '2022-09-01T04:25:30Z'
+              timestamp: '2022-09-01T12:36:09Z'
               size: 2362
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-action--check-os-version?logo=github
               md5-hash: 526e73c341a37e95a0c9451ad97b96bb
-              timestamp: '2022-09-01T04:25:31Z'
+              timestamp: '2022-09-01T12:36:10Z'
               size: 2344
 
             - file: tokei-lines-of-code.svg

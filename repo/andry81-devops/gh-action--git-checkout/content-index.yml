@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2023-08-15T12:13:13Z'
+  timestamp: '2023-08-15T18:08:46Z'
 
   entries:
 
@@ -15,26 +15,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 32c42cbdee0848fbc0ed036894ee370d
-              timestamp: '2023-08-15T12:13:04Z'
+              md5-hash: 162c8d8beda13d91f17f27986186ef1e
+              timestamp: '2023-08-15T18:08:41Z'
               size: 2341
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
-              timestamp: '2023-08-15T12:13:05Z'
+              md5-hash: f2b9b085b2b123a17d878c4da1e35d88
+              timestamp: '2023-08-15T18:08:42Z'
               size: 1101
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 1c4d0afed1ab7ae548cf8e35e4cf326b
-              timestamp: '2023-08-15T12:13:05Z'
+              md5-hash: b0472ff7b6251d93442cb731e57b1659
+              timestamp: '2023-08-15T18:08:42Z'
               size: 2337
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
-              timestamp: '2023-08-15T12:13:06Z'
+              md5-hash: f2b9b085b2b123a17d878c4da1e35d88
+              timestamp: '2023-08-15T18:08:43Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-action--git-checkout/badges/traffic/clones
@@ -44,25 +44,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: 6b392d5a6bcc50fb5ff0d91a1cc12d53
-              timestamp: '2023-08-15T12:13:07Z'
+              timestamp: '2023-08-15T18:08:44Z'
               size: 2345
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 9c4aa3b6229b08b555bfe1ac65513432
-              timestamp: '2023-08-15T12:13:08Z'
+              timestamp: '2023-08-15T18:08:45Z'
               size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: cdb4df7e158f678be049c6bc64fabc66
-              timestamp: '2023-08-15T12:13:08Z'
+              timestamp: '2023-08-15T18:08:45Z'
               size: 2347
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: c959befa6906881ff4a112be567fc54c
-              timestamp: '2023-08-15T12:13:09Z'
+              timestamp: '2023-08-15T18:08:46Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-action--git-checkout/badges/metrics

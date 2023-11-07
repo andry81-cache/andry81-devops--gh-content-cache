@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2023-11-07T06:10:05Z'
+  timestamp: '2023-11-07T12:13:34Z'
 
   entries:
 
@@ -16,25 +16,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 9131fbf257c200dd08683f90e3dc05f4
-              timestamp: '2023-11-07T06:09:59Z'
+              timestamp: '2023-11-07T12:13:26Z'
               size: 2334
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 09466ecd44b8512b3bafdb8453be0e1a
-              timestamp: '2023-11-07T06:10:00Z'
+              timestamp: '2023-11-07T12:13:27Z'
               size: 1101
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: fe59124c61c3b72c056bf3ee264cc38d
-              timestamp: '2023-11-07T06:10:00Z'
+              timestamp: '2023-11-07T12:13:27Z'
               size: 2331
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
-              timestamp: '2023-11-07T06:10:01Z'
+              timestamp: '2023-11-07T12:13:28Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-action--check-os-version/badges/traffic/clones
@@ -43,26 +43,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 29f19e829e66ea9dbb7aa2c51d8b34a4
-              timestamp: '2023-11-07T06:10:01Z'
+              md5-hash: d690e8c6dba1a1810d1382762c8219e9
+              timestamp: '2023-11-07T12:13:29Z'
               size: 2345
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 3395a8d03cb93c8c5840ef2e17b19a05
-              timestamp: '2023-11-07T06:10:02Z'
+              timestamp: '2023-11-07T12:13:29Z'
               size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 85fa1c3ab92ff3adaab701725597c714
-              timestamp: '2023-11-07T06:10:03Z'
+              md5-hash: a0e15a03f1cc4c010d5a2fc7a9051e38
+              timestamp: '2023-11-07T12:13:30Z'
               size: 2347
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--check-os-version--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
-              timestamp: '2023-11-07T06:10:03Z'
+              timestamp: '2023-11-07T12:13:31Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-action--check-os-version/badges/metrics
@@ -72,19 +72,19 @@ content-index:
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-action--check-os-version/latest?sort=semver&label=Github%20commits%20since%20latest
               md5-hash: ac11a4e28584f4339ec5b7bbf7bca74e
-              timestamp: '2023-11-07T00:35:20Z'
+              timestamp: '2023-11-07T12:13:32Z'
               size: 1209
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-action--check-os-version?include_prereleases&label=latest
               md5-hash: 0590d8eec5cbae966a43a1493322bc1b
-              timestamp: '2023-11-07T00:35:20Z'
+              timestamp: '2023-11-07T12:13:32Z'
               size: 1138
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-action--check-os-version/total?label=Github%20dl|all&logo=github
               md5-hash: 1d0b1a36f9cf418948de4c7749689d02
-              timestamp: '2023-11-07T00:35:21Z'
+              timestamp: '2023-11-07T12:13:33Z'
               size: 2352
 
         - dir: repo/andry81-devops/gh-action--check-os-version/badges/metrics
@@ -94,13 +94,13 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-action--check-os-version?logo=github
               md5-hash: 09e3b8ac3c046e6f76be5b3b120835d9
-              timestamp: '2023-11-07T00:35:22Z'
+              timestamp: '2023-11-07T12:13:34Z'
               size: 2362
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-action--check-os-version?logo=github
               md5-hash: 526e73c341a37e95a0c9451ad97b96bb
-              timestamp: '2023-11-07T00:35:22Z'
+              timestamp: '2023-11-07T12:13:34Z'
               size: 2344
 
             - file: tokei-lines-of-code.svg

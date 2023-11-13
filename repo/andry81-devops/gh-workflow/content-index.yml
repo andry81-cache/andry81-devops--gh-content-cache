@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2023-11-13T06:09:37Z'
+  timestamp: '2023-11-13T12:11:54Z'
 
   entries:
 
@@ -16,25 +16,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 03de0d1046e91d41f223baef757ce45a
-              timestamp: '2023-11-13T06:09:26Z'
+              timestamp: '2023-11-13T12:11:50Z'
               size: 2345
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: a9b88784a98c2094c20f829af73c6a5f
-              timestamp: '2023-11-13T06:09:27Z'
+              md5-hash: 9c4aa3b6229b08b555bfe1ac65513432
+              timestamp: '2023-11-13T12:11:51Z'
               size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: cf40b463a601fff840d373759806e0cd
-              timestamp: '2023-11-13T06:09:28Z'
+              timestamp: '2023-11-13T12:11:51Z'
               size: 2341
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: 09466ecd44b8512b3bafdb8453be0e1a
-              timestamp: '2023-11-13T06:09:28Z'
+              md5-hash: 12088cb1926f07bdd423119c89331a59
+              timestamp: '2023-11-13T12:11:52Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-workflow/badges/traffic/clones
@@ -43,26 +43,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 969aab9b28bda7f884c25e49f967a087
-              timestamp: '2023-11-13T06:09:29Z'
+              md5-hash: af7a0b0b23e9990059fe788be8dcd60b
+              timestamp: '2023-11-13T12:11:53Z'
               size: 2359
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: ae805fea9a63a3c925d1a5e1ee3a507a
-              timestamp: '2023-11-13T06:09:30Z'
+              md5-hash: cc8d5290d04a8ce53a64aa24bd803fe2
+              timestamp: '2023-11-13T12:11:53Z'
               size: 1115
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 271cffd79d8750f945906eceb584f8d4
-              timestamp: '2023-11-13T06:09:31Z'
+              md5-hash: 50eb6a055d36eaafb1927258c4bee3a0
+              timestamp: '2023-11-13T12:11:54Z'
               size: 2351
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-workflow--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 09466ecd44b8512b3bafdb8453be0e1a
-              timestamp: '2023-11-13T06:09:32Z'
+              timestamp: '2023-11-13T12:11:54Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-workflow/badges/metrics

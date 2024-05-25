@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2024-05-25T06:25:47Z'
+  timestamp: '2024-05-25T12:33:19Z'
 
   entries:
 
@@ -16,25 +16,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 006cae44207737e104848b945954ebb6
-              timestamp: '2024-05-25T06:25:42Z'
+              timestamp: '2024-05-25T12:33:13Z'
               size: 2341
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 9178990da41460fca59c9a101a2fdc05
-              timestamp: '2024-05-25T06:25:42Z'
+              timestamp: '2024-05-25T12:33:13Z'
               size: 1101
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 3f150c2ffaf3b6552e94ce3c1c15caed
-              timestamp: '2024-05-25T06:25:43Z'
+              timestamp: '2024-05-25T12:33:14Z'
               size: 2337
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
-              timestamp: '2024-05-25T06:25:43Z'
+              timestamp: '2024-05-25T12:33:14Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/traffic/clones
@@ -43,26 +43,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: cc41c3ef4938b13f7aad90c72d2d8c95
-              timestamp: '2024-05-25T06:25:44Z'
+              md5-hash: 3e466f01549e2959630bca1c5528c39a
+              timestamp: '2024-05-25T12:33:15Z'
               size: 2349
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: a9b88784a98c2094c20f829af73c6a5f
-              timestamp: '2024-05-25T06:25:44Z'
+              md5-hash: 8655821fc7139bb289f650d720a263a9
+              timestamp: '2024-05-25T12:33:15Z'
               size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 6b28e2cc8b9373193d69164cbf50e871
-              timestamp: '2024-05-25T06:25:45Z'
+              md5-hash: 930fe2c5bfab776ec58a9f1b894051c2
+              timestamp: '2024-05-25T12:33:16Z'
               size: 2347
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--accum-inpage-downloads--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 30030f363c656c61884339a36c07129a
-              timestamp: '2024-05-25T06:25:45Z'
+              md5-hash: 09466ecd44b8512b3bafdb8453be0e1a
+              timestamp: '2024-05-25T12:33:16Z'
               size: 1101
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/metrics
@@ -72,19 +72,19 @@ content-index:
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-action--accum-inpage-downloads/latest?sort=semver&label=Github%20commits%20since%20latest
               md5-hash: ac11a4e28584f4339ec5b7bbf7bca74e
-              timestamp: '2024-05-25T01:19:02Z'
+              timestamp: '2024-05-25T12:33:17Z'
               size: 1209
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-action--accum-inpage-downloads?include_prereleases&label=latest
               md5-hash: 0f83fd2c2ec63ca6ce6c81df79e47d38
-              timestamp: '2024-05-25T01:19:03Z'
+              timestamp: '2024-05-25T12:33:18Z'
               size: 1138
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-action--accum-inpage-downloads/total?label=Github%20dl|all&logo=github
               md5-hash: 1d0b1a36f9cf418948de4c7749689d02
-              timestamp: '2024-05-25T01:19:03Z'
+              timestamp: '2024-05-25T12:33:18Z'
               size: 2352
 
         - dir: repo/andry81-devops/gh-action--accum-inpage-downloads/badges/metrics
@@ -94,13 +94,13 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-action--accum-inpage-downloads?logo=github
               md5-hash: dff33c0ec57da4bb8ee8b22a00d672cd
-              timestamp: '2024-05-25T01:19:04Z'
+              timestamp: '2024-05-25T12:33:19Z'
               size: 2362
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-action--accum-inpage-downloads?logo=github
               md5-hash: 526e73c341a37e95a0c9451ad97b96bb
-              timestamp: '2024-05-25T01:19:05Z'
+              timestamp: '2024-05-25T12:33:19Z'
               size: 2344
 
             - file: tokei-lines-of-code.svg

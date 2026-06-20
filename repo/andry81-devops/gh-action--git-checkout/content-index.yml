@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2026-06-16T02:28:36Z'
+  timestamp: '2026-06-20T02:00:23Z'
 
   entries:
 
@@ -16,25 +16,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 4ad89e9e3b709ccddfbdbc664cecc7cf
-              timestamp: '2026-06-16T02:28:26Z'
+              timestamp: '2026-06-20T02:00:14Z'
               size: 2482
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 5a9ad9ae380b6ae7e4b0ed848413b6f3
-              timestamp: '2026-06-16T02:28:27Z'
+              timestamp: '2026-06-20T02:00:15Z'
               size: 1239
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: dd1573187df91635b9dfa320a1a23895
-              timestamp: '2026-06-16T02:28:28Z'
+              timestamp: '2026-06-20T02:00:16Z'
               size: 2482
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 5a9ad9ae380b6ae7e4b0ed848413b6f3
-              timestamp: '2026-06-16T02:28:28Z'
+              timestamp: '2026-06-20T02:00:16Z'
               size: 1239
 
         - dir: repo/andry81-devops/gh-action--git-checkout/badges/traffic/clones
@@ -43,26 +43,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 3955219d6ed98924ee5731c6f0c07574
-              timestamp: '2026-06-16T02:28:29Z'
+              md5-hash: 00f2cf92477ddfbea95a3c682472797d
+              timestamp: '2026-06-20T02:00:17Z'
               size: 2492
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: c70a0f5bd2e7ed9b63432de1eac4cd6a
-              timestamp: '2026-06-16T02:28:30Z'
+              timestamp: '2026-06-20T02:00:18Z'
               size: 1239
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 8f9de1ff8fd7322247f242a843ae5b3a
-              timestamp: '2026-06-16T02:28:31Z'
+              md5-hash: 26f7adf9e87839a4a73d38de1bb62f86
+              timestamp: '2026-06-20T02:00:19Z'
               size: 2495
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/gh-action--git-checkout--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: c70a0f5bd2e7ed9b63432de1eac4cd6a
-              timestamp: '2026-06-16T02:28:32Z'
+              timestamp: '2026-06-20T02:00:19Z'
               size: 1239
 
         - dir: repo/andry81-devops/gh-action--git-checkout/badges/metrics
@@ -71,21 +71,21 @@ content-index:
 
             - file: commits-since-latest.svg
               queried-url: https://img.shields.io/github/commits-since/andry81-devops/gh-action--git-checkout/latest?sort=semver&label=Github%20commits%20since%20latest
-              md5-hash: ef03b72152a11f84dc84aeea57bf7429
-              timestamp: '2026-06-16T02:28:33Z'
-              size: 1595
+              md5-hash: 0efd8f7f7bf86230ee7724c0da47a450
+              timestamp: '2026-06-20T02:00:20Z'
+              size: 1406
 
             - file: latest-release-name.svg
               queried-url: https://img.shields.io/github/v/release/andry81-devops/gh-action--git-checkout?include_prereleases&label=latest
-              md5-hash: b55373f7c1fe25d7573756c0a3315649
-              timestamp: '2026-06-16T02:28:33Z'
-              size: 1485
+              md5-hash: 241e6b2fb26baa5db9f0c26f76cf34f0
+              timestamp: '2026-06-20T02:00:21Z'
+              size: 1285
 
             - file: github-all-releases.svg
               queried-url: https://img.shields.io/github/downloads/andry81-devops/gh-action--git-checkout/total?label=Github%20dl|all&logo=github
-              md5-hash: f56d1cadc37e3d68f00d00d90b276274
-              timestamp: '2026-06-16T02:28:34Z'
-              size: 2717
+              md5-hash: 1bb08485572ce4b22e83204e4cfb77c0
+              timestamp: '2026-06-20T02:00:22Z'
+              size: 2495
 
         - dir: repo/andry81-devops/gh-action--git-checkout/badges/metrics
 
@@ -93,15 +93,15 @@ content-index:
 
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81-devops/gh-action--git-checkout?logo=github
-              md5-hash: def223c1cc75638d5e80430dcfcd9d86
-              timestamp: '2026-06-16T02:28:35Z'
-              size: 2697
+              md5-hash: 0250840f048d7c9ec0df3270a8f42da1
+              timestamp: '2026-06-20T02:00:22Z'
+              size: 2500
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81-devops/gh-action--git-checkout?logo=github
-              md5-hash: edf6e23852d76cc6ddcf0828946c2962
-              timestamp: '2026-06-16T02:28:36Z'
-              size: 2697
+              md5-hash: 5488f9dff2f2f33692ff449cbf1ab7d5
+              timestamp: '2026-06-20T02:00:23Z'
+              size: 2485
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81-devops/gh-action--git-checkout?category=code
